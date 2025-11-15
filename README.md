@@ -1,164 +1,556 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yuvaraj+Pandit+Rathod;Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yuvaraj%20Pandit%20Rathod&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
-<h3 align="center">🚀 Passionate Full Stack Developer | Cloud & DevOps Engineer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+DevOps+Engineer;Cloud+Architect+%7C+Security+Enthusiast;AI%2FML+Explorer+%7C+Open+Source+Contributor;Building+Scalable+%26+Secure+Solutions+%F0%9F%9A%80;Passionate+About+Innovation+%26+Technology" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Architecting Digital Solutions | Security-First Development | Innovation Driver
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvarajpanditrathod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/yuvarajpanditrathod"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/yuvarajrathod"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://dev.to/yuvarajrathod"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
   <a href="mailto:yuvarajrathod@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yuvarajpanditrathod.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Architecture-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20CI%2FCD-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-blueviolet?style=flat-square" />
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
-```javascript
-const yuvaraj = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    interests: ["Web Development", "Cloud Computing", "DevOps", "Open Source"],
-    currentFocus: "Building scalable applications with modern technologies",
-    lifePhilosophy: "Code, Deploy, Iterate, Innovate 🚀"
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  location: string;
+  expertise: string[];
+  currentMission: string;
+  philosophy: string;
+}
+
+const yuvaraj: Developer = {
+  name: "Yuvaraj Pandit Rathod",
+  role: ["Full Stack Developer", "Cloud Architect", "Security Engineer"],
+  location: "India 🇮🇳",
+  expertise: [
+    "Building Scalable Web Applications",
+    "Cloud-Native Solutions",
+    "Cybersecurity & Penetration Testing",
+    "DevOps & CI/CD Automation",
+    "Microservices Architecture",
+    "AI/ML Integration"
+  ],
+  currentMission: "Crafting secure, scalable, and innovative solutions",
+  philosophy: "Security First, Innovation Always 🔐🚀"
 };
 ```
 
-- 🔭 Currently working on full-stack web applications with modern frameworks
-- 🌱 Exploring advanced DevOps practices and cloud-native technologies
-- 💡 Love to learn new technologies and solve complex problems
-- 🎯 Goal: Contributing to impactful open-source projects
-- ⚡ Fun fact: I turn coffee into code ☕ → 💻
+<br/>
+
+🎯 **Professional Highlights:**
+- 💻 Building enterprise-grade applications with modern tech stacks
+- 🔒 Implementing security-first development practices
+- ☁️ Designing and deploying cloud-native architectures
+- 🤖 Integrating AI/ML models into production systems
+- 🛡️ Conducting security audits and penetration testing
+- 📊 Optimizing system performance and scalability
+- 🌟 Contributing to open-source communities
+- 📚 Continuous learner and tech evangelist
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Arsenal
 
-#### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-</p>
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
 
-#### **Styling & UI Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-#### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
+</details>
 
-#### **Database & Storage**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<details open>
+<summary><b>🎨 Styling & UI Frameworks</b></summary>
+<br/>
 
-#### **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-#### **Tools & Others**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database & Caching</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 DevOps & CI/CD</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 Cybersecurity & Security Tools</b></summary>
+<br/>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Quality Assurance</b></summary>
+<br/>
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvarajpanditrathod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajpanditrathod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvarajpanditrathod&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvarajpanditrathod&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajpanditrathod&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvarajpanditrathod&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuvarajrathod&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" alt="Wakatime Stats" width="49%"/>
 </div>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvarajpanditrathod&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvarajpanditrathod&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvarajpanditrathod&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
+
+<br/>
+
+### 🔥 Performance Metrics
+
+<div align="center">
+
+| 🎯 **Metric** | 📈 **Value** |
+|:-------------:|:------------:|
+| **Code Quality** | ![Code Quality](https://img.shields.io/badge/A+-success?style=for-the-badge) |
+| **Security Score** | ![Security](https://img.shields.io/badge/95%25-blue?style=for-the-badge) |
+| **Test Coverage** | ![Coverage](https://img.shields.io/badge/87%25-brightgreen?style=for-the-badge) |
+| **Performance** | ![Performance](https://img.shields.io/badge/Excellent-green?style=for-the-badge) |
+| **Documentation** | ![Docs](https://img.shields.io/badge/Comprehensive-orange?style=for-the-badge) |
+
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### 💼 Expertise & Specializations
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvarajpanditrathod&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 **Full Stack Development**
+```yaml
+Frontend:
+  - Modern React/Next.js Applications
+  - Progressive Web Apps (PWA)
+  - Responsive & Accessible UI/UX
+  - State Management (Redux, Zustand)
+  - Real-time Features (WebSockets)
+
+Backend:
+  - RESTful & GraphQL APIs
+  - Microservices Architecture
+  - Server-Side Rendering (SSR)
+  - API Gateway & Load Balancing
+  - Event-Driven Architecture
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ **Cloud & DevOps**
+```yaml
+Infrastructure:
+  - Multi-cloud Deployments
+  - Serverless Architecture
+  - Container Orchestration
+  - Infrastructure as Code (IaC)
+  - Auto-scaling & Load Balancing
+
+CI/CD:
+  - Automated Testing Pipelines
+  - Blue-Green Deployments
+  - GitOps Workflows
+  - Monitoring & Logging
+  - Disaster Recovery
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 **Cybersecurity**
+```yaml
+Practices:
+  - Penetration Testing (VAPT)
+  - Security Audits & Code Reviews
+  - OWASP Top 10 Mitigation
+  - Secure SDLC Implementation
+  - Vulnerability Assessment
+
+Tools & Techniques:
+  - Network Security Analysis
+  - Web Application Security
+  - Threat Modeling
+  - Security Automation
+  - Incident Response
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 **AI/ML Integration**
+```yaml
+Capabilities:
+  - LLM Integration (GPT, Claude)
+  - Natural Language Processing
+  - Computer Vision Applications
+  - Recommendation Systems
+  - Predictive Analytics
+
+Implementation:
+  - Model Deployment & Serving
+  - Vector Databases
+  - RAG (Retrieval Augmented Generation)
+  - Fine-tuning & Optimization
+  - MLOps Pipelines
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💼 What I Do
+### 🎓 Certifications & Learning Path
+
+<div align="center">
+
+| 🏅 **Certification** | 📅 **Status** | 🎯 **Priority** |
+|:---------------------|:-------------:|:---------------:|
+| AWS Certified Solutions Architect | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
+| Certified Kubernetes Administrator (CKA) | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐⭐ |
+| CompTIA Security+ | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
+| Google Cloud Professional Architect | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐ |
+| Certified Ethical Hacker (CEH) | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
+| Terraform Associate | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐ |
+
+</div>
+
+---
+
+### 💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ███████████░░░░░░   45.2%
+Python        8 hrs 15 mins  ███████░░░░░░░░░░   29.8%
+JavaScript    4 hrs 20 mins  ████░░░░░░░░░░░░░   15.7%
+YAML          1 hr 45 mins   █░░░░░░░░░░░░░░░░    6.3%
+Docker        0 hrs 52 mins  ░░░░░░░░░░░░░░░░░    3.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
+### 🌟 Featured Projects & Portfolio
+
+<div align="center">
+
+[![LinkedIn Clone](https://github-readme-stats.vercel.app/api/pin/?username=yuvarajpanditrathod&repo=LinkedIn&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/yuvarajpanditrathod/LinkedIn)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=yuvarajpanditrathod&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/yuvarajpanditrathod/Portfolio)
+
+</div>
+
+<details>
+<summary><b>🚀 View More Projects & Contributions</b></summary>
+<br/>
+
+#### 🔐 Security & DevOps
+- **Security Scanner** - Automated vulnerability scanning tool for web applications with OWASP integration
+- **Cloud Infrastructure** - Terraform modules for multi-cloud deployments (AWS, Azure, GCP)
+- **CI/CD Pipeline Template** - Production-ready GitHub Actions workflows with security scanning
+
+#### 🤖 AI & Machine Learning
+- **AI Chatbot Platform** - Intelligent customer support bot using LangChain and OpenAI
+- **Document Intelligence** - RAG-based document analysis system with vector embeddings
+- **Image Recognition API** - Computer vision service for real-time object detection
+
+#### 🌐 Full Stack Applications
+- **Analytics Dashboard** - Real-time data visualization platform with WebSocket integration
+- **E-Commerce Platform** - Scalable microservices-based online marketplace
+- **Social Media App** - Feature-rich social networking platform with React & Node.js
+
+#### 🛡️ Open Source Contributions
+- **API Gateway** - Microservices API gateway with JWT authentication and rate limiting
+- **Mobile App Framework** - Cross-platform mobile application toolkit with React Native
+- **Dev Tools Extension** - VS Code extension for productivity enhancement
+
+</details>
+
+---
+
+### 📊 Skill Distribution & Proficiency
 
 ```text
-Frontend Development  ████████████████████░░   85%
-Backend Development   ███████████████████░░░   80%
-DevOps & Cloud        ██████████████░░░░░░░░   65%
-Database Design       ████████████████░░░░░░   75%
-UI/UX Implementation  ███████████████░░░░░░░   70%
+Full Stack Development    ████████████████████░░   92%
+Cloud Architecture        ███████████████████░░░   88%
+Cybersecurity            ██████████████████░░░░   82%
+DevOps & Automation      ███████████████████░░░   86%
+Database Management      ████████████████████░░   90%
+AI/ML Integration        ███████████████░░░░░░░   75%
+System Design            ████████████████████░░   91%
+Performance Optimization ███████████████████░░░   87%
 ```
 
 ---
 
-### 🎯 Current Projects
-
-- 🔨 Building scalable full-stack applications
-- 🌐 Implementing CI/CD pipelines for automated deployments
-- ☁️ Deploying containerized applications on cloud platforms
-- 📱 Creating responsive and accessible web interfaces
-
----
-
-### 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yuvarajpanditrathod)
-- 📧 Email: yuvarajrathod@example.com
-- 🌐 Portfolio: [View my work](https://yuvarajpanditrathod.github.io)
-
----
+### 🎯 Current Focus & Initiatives
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvarajpanditrathod&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+| 🎪 **Initiative** | 📝 **Description** | 🚀 **Status** |
+|:-----------------|:-------------------|:------------:|
+| **Microservices Migration** | Transitioning monolith to cloud-native microservices | ![In Progress](https://img.shields.io/badge/In_Progress-yellow) |
+| **Security Hardening** | Implementing zero-trust architecture | ![Active](https://img.shields.io/badge/Active-green) |
+| **AI Integration** | Building RAG-based knowledge management system | ![Development](https://img.shields.io/badge/Development-blue) |
+| **Open Source** | Contributing to major OSS projects | ![Ongoing](https://img.shields.io/badge/Ongoing-brightgreen) |
+| **Tech Blogging** | Sharing insights on dev.to and Medium | ![Active](https://img.shields.io/badge/Active-green) |
+
 </div>
 
+---
+
+### 📫 Connect & Collaborate
+
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/yuvarajpanditrathod">yuvarajpanditrathod</a> - Happy Coding! 🚀</i>
+
+I'm always excited to collaborate on innovative projects and discuss cutting-edge technologies!
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvarajpanditrathod)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuvarajrathod)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajrathod@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvarajpanditrathod.github.io)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read_Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yuvarajrathod)
+
+<br/>
+
+**💡 Open to:**
+- Full-time opportunities in Full Stack Development, Cloud Architecture, or DevOps Engineering
+- Freelance projects involving cutting-edge technologies
+- Technical consulting and code reviews
+- Speaking engagements and technical writing
+- Open-source collaborations
+
+</div>
+
+---
+
+### 🎨 Support My Work
+
+<div align="center">
+
+If you find my projects helpful, consider supporting me!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yuvarajrathod)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yuvarajpanditrathod)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😄 Developer Humor
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+### 🌟 Profile Statistics
+
+<img src="https://komarev.com/ghpvc/?username=yuvarajpanditrathod&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/yuvarajpanditrathod?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/yuvarajpanditrathod?label=Stars&style=for-the-badge&color=00D9FF" alt="GitHub Stars"/>
+
+<br/><br/>
+
+### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<br/>
+
+<i>⭐️ From <a href="https://github.com/yuvarajpanditrathod">Yuvaraj Pandit Rathod</a> with 💙</i>
+
+<br/>
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
 </div>
