@@ -8,16 +8,14 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Architecting Digital Solutions | Security-First Development | Innovation Driver
+  Full Stack Development | Cyber Security | Software Testing | UI-UX
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvarajpanditrathod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/yuvarajpanditrathod"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://twitter.com/yuvarajrathod"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://dev.to/yuvarajrathod"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"></a>
-  <a href="mailto:yuvarajrathod@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:yuvarajpanditrathod@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://yuvarajpanditrathod.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -62,18 +60,6 @@ const yuvaraj: Developer = {
   philosophy: "Security First, Innovation Always 🔐🚀"
 };
 ```
-
-<br/>
-
-🎯 **Professional Highlights:**
-- 💻 Building enterprise-grade applications with modern tech stacks
-- 🔒 Implementing security-first development practices
-- ☁️ Designing and deploying cloud-native architectures
-- 🤖 Integrating AI/ML models into production systems
-- 🛡️ Conducting security audits and penetration testing
-- 📊 Optimizing system performance and scalability
-- 🌟 Contributing to open-source communities
-- 📚 Continuous learner and tech evangelist
 
 ---
 
@@ -378,36 +364,6 @@ Implementation:
 
 ---
 
-### 🎓 Certifications & Learning Path
-
-<div align="center">
-
-| 🏅 **Certification** | 📅 **Status** | 🎯 **Priority** |
-|:---------------------|:-------------:|:---------------:|
-| AWS Certified Solutions Architect | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
-| Certified Kubernetes Administrator (CKA) | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐⭐ |
-| CompTIA Security+ | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
-| Google Cloud Professional Architect | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐ |
-| Certified Ethical Hacker (CEH) | ![Status](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) | ⭐⭐⭐ |
-| Terraform Associate | ![Status](https://img.shields.io/badge/Planned-blue?style=flat-square) | ⭐⭐ |
-
-</div>
-
----
-
-### 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ███████████░░░░░░   45.2%
-Python        8 hrs 15 mins  ███████░░░░░░░░░░   29.8%
-JavaScript    4 hrs 20 mins  ████░░░░░░░░░░░░░   15.7%
-YAML          1 hr 45 mins   █░░░░░░░░░░░░░░░░    6.3%
-Docker        0 hrs 52 mins  ░░░░░░░░░░░░░░░░░    3.0%
-```
-<!--END_SECTION:waka-->
-
----
 
 ### 🌟 Featured Projects & Portfolio
 
@@ -418,65 +374,6 @@ Docker        0 hrs 52 mins  ░░░░░░░░░░░░░░░░░
 
 </div>
 
-<details>
-<summary><b>🚀 View More Projects & Contributions</b></summary>
-<br/>
-
-#### 🔐 Security & DevOps
-- **Security Scanner** - Automated vulnerability scanning tool for web applications with OWASP integration
-- **Cloud Infrastructure** - Terraform modules for multi-cloud deployments (AWS, Azure, GCP)
-- **CI/CD Pipeline Template** - Production-ready GitHub Actions workflows with security scanning
-
-#### 🤖 AI & Machine Learning
-- **AI Chatbot Platform** - Intelligent customer support bot using LangChain and OpenAI
-- **Document Intelligence** - RAG-based document analysis system with vector embeddings
-- **Image Recognition API** - Computer vision service for real-time object detection
-
-#### 🌐 Full Stack Applications
-- **Analytics Dashboard** - Real-time data visualization platform with WebSocket integration
-- **E-Commerce Platform** - Scalable microservices-based online marketplace
-- **Social Media App** - Feature-rich social networking platform with React & Node.js
-
-#### 🛡️ Open Source Contributions
-- **API Gateway** - Microservices API gateway with JWT authentication and rate limiting
-- **Mobile App Framework** - Cross-platform mobile application toolkit with React Native
-- **Dev Tools Extension** - VS Code extension for productivity enhancement
-
-</details>
-
----
-
-### 📊 Skill Distribution & Proficiency
-
-```text
-Full Stack Development    ████████████████████░░   92%
-Cloud Architecture        ███████████████████░░░   88%
-Cybersecurity            ██████████████████░░░░   82%
-DevOps & Automation      ███████████████████░░░   86%
-Database Management      ████████████████████░░   90%
-AI/ML Integration        ███████████████░░░░░░░   75%
-System Design            ████████████████████░░   91%
-Performance Optimization ███████████████████░░░   87%
-```
-
----
-
-### 🎯 Current Focus & Initiatives
-
-<div align="center">
-
-| 🎪 **Initiative** | 📝 **Description** | 🚀 **Status** |
-|:-----------------|:-------------------|:------------:|
-| **Microservices Migration** | Transitioning monolith to cloud-native microservices | ![In Progress](https://img.shields.io/badge/In_Progress-yellow) |
-| **Security Hardening** | Implementing zero-trust architecture | ![Active](https://img.shields.io/badge/Active-green) |
-| **AI Integration** | Building RAG-based knowledge management system | ![Development](https://img.shields.io/badge/Development-blue) |
-| **Open Source** | Contributing to major OSS projects | ![Ongoing](https://img.shields.io/badge/Ongoing-brightgreen) |
-| **Tech Blogging** | Sharing insights on dev.to and Medium | ![Active](https://img.shields.io/badge/Active-green) |
-
-</div>
-
----
-
 ### 📫 Connect & Collaborate
 
 <div align="center">
@@ -486,64 +383,21 @@ I'm always excited to collaborate on innovative projects and discuss cutting-edg
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvarajpanditrathod)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuvarajrathod)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajrathod@example.com)
+
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvarajpanditrathod@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yuvarajpanditrathod.github.io)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read_Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yuvarajrathod)
 
 <br/>
 
-**💡 Open to:**
-- Full-time opportunities in Full Stack Development, Cloud Architecture, or DevOps Engineering
-- Freelance projects involving cutting-edge technologies
-- Technical consulting and code reviews
-- Speaking engagements and technical writing
-- Open-source collaborations
-
-</div>
-
 ---
 
-### 🎨 Support My Work
 
-<div align="center">
-
-If you find my projects helpful, consider supporting me!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yuvarajrathod)
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yuvarajpanditrathod)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Developer Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
 
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 ### 🌟 Profile Statistics
-
-<img src="https://komarev.com/ghpvc/?username=yuvarajpanditrathod&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/yuvarajpanditrathod?label=Followers&style=for-the-badge&color=00D9FF" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/yuvarajpanditrathod?label=Stars&style=for-the-badge&color=00D9FF" alt="GitHub Stars"/>
-
-<br/><br/>
-
-### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <br/>
 
