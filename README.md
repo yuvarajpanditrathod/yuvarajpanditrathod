@@ -250,11 +250,6 @@ const yuvaraj: Developer = {
 
 <br/>
 
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvarajpanditrathod&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
-
-<br/>
 
 ### 🔥 Performance Metrics
 
@@ -271,99 +266,6 @@ const yuvaraj: Developer = {
 </div>
 
 ---
-
-### 💼 Expertise & Specializations
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚀 **Full Stack Development**
-```yaml
-Frontend:
-  - Modern React/Next.js Applications
-  - Progressive Web Apps (PWA)
-  - Responsive & Accessible UI/UX
-  - State Management (Redux, Zustand)
-  - Real-time Features (WebSockets)
-
-Backend:
-  - RESTful & GraphQL APIs
-  - Microservices Architecture
-  - Server-Side Rendering (SSR)
-  - API Gateway & Load Balancing
-  - Event-Driven Architecture
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### ☁️ **Cloud & DevOps**
-```yaml
-Infrastructure:
-  - Multi-cloud Deployments
-  - Serverless Architecture
-  - Container Orchestration
-  - Infrastructure as Code (IaC)
-  - Auto-scaling & Load Balancing
-
-CI/CD:
-  - Automated Testing Pipelines
-  - Blue-Green Deployments
-  - GitOps Workflows
-  - Monitoring & Logging
-  - Disaster Recovery
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🔐 **Cybersecurity**
-```yaml
-Practices:
-  - Penetration Testing (VAPT)
-  - Security Audits & Code Reviews
-  - OWASP Top 10 Mitigation
-  - Secure SDLC Implementation
-  - Vulnerability Assessment
-
-Tools & Techniques:
-  - Network Security Analysis
-  - Web Application Security
-  - Threat Modeling
-  - Security Automation
-  - Incident Response
-```
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 **AI/ML Integration**
-```yaml
-Capabilities:
-  - LLM Integration (GPT, Claude)
-  - Natural Language Processing
-  - Computer Vision Applications
-  - Recommendation Systems
-  - Predictive Analytics
-
-Implementation:
-  - Model Deployment & Serving
-  - Vector Databases
-  - RAG (Retrieval Augmented Generation)
-  - Fine-tuning & Optimization
-  - MLOps Pipelines
-```
-
-</td>
-</tr>
-</table>
-
----
-
 
 ### 🌟 Featured Projects & Portfolio
 
@@ -397,7 +299,6 @@ I'm always excited to collaborate on innovative projects and discuss cutting-edg
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-### 🌟 Profile Statistics
 
 <br/>
 
